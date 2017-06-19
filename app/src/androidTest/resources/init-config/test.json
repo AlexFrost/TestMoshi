@@ -1,0 +1,41 @@
+{
+   "PROD":{
+      "test1":"",
+      "test2":"",
+      "environment":"test.net",
+      "baseWS":"/src/v1/",
+      "basePath":"/",
+      "test3": {
+         "action":"urls",
+         "params": {
+            "platform":"android"
+         }
+      }
+   },
+   "UAT":{
+      "test1":"",
+      "authKeySecure":"",
+      "environment":"test.net",
+      "baseWS":"/src/v1/",
+      "basePath":"/",
+      "test3": {
+         "action":"urls",
+         "params": {
+            "platform":"android"
+         }
+      }
+   },
+   "QA":{
+      "test1":"",
+      "test2":"",
+      "environment":"test.net",
+      "baseWS":"/src/v1/",
+      "basePath":"/",
+      "test3": {
+         "action":"urls",
+         "params": {
+            "platform":"android"
+         }
+      }
+   }
+}
